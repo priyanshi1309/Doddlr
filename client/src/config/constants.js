@@ -1,4 +1,4 @@
-import { swatch, fileIcon, ai, logoShirt, stylishShirt, boots, poloTshirt } from "../assets";
+import { swatch, fileIcon, ai, logoShirt, stylishShirt, boots, poloTshirt, hoodie } from "../assets";
 
 export const EditorTabs = [
   {
@@ -47,6 +47,6 @@ export const ModelTabs = [
   },
   {
     name: "Hoodie",
-    icon: boots
+    icon: hoodie
   }
 ];

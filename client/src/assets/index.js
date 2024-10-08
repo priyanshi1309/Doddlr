@@ -7,4 +7,5 @@ import logoShirt from "./logo-tshirt.png";
 import stylishShirt from "./stylish-tshirt.png";
 import poloTshirt from "./polo-tshirt.png"
 import boots from "./boots.png"
-export { ai, fileIcon, swatch, download, logoShirt, stylishShirt, poloTshirt, boots };
+import hoodie from "./hoodie.png"
+export { ai, fileIcon, swatch, download, logoShirt, stylishShirt, poloTshirt, boots, hoodie };
